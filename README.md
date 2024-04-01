@@ -8,5 +8,7 @@
 
 <h6>* Have fun!
 
-![暗色](https://raw.githubusercontent.com/lidianzhong/lidianzhong/output/github-contribution-grid-snake-dark.svg)
+<!-- ![暗色](https://raw.githubusercontent.com/lidianzhong/lidianzhong/output/github-contribution-grid-snake-dark.svg) -->
+
+
 
